@@ -1,3 +1,9 @@
-.icSearchPaneButton {
-background-color: #FFE4B5 !important;
+
+.ics-scbanner {
+    background-color: #991D85 !important;
+    height: 60px !important;
+    width: 100%;
+    position: fixed;
+    box-sizing: border-box;
+    top: 0;
 }
